@@ -1,0 +1,275 @@
+<!DOCTYPE HTML>
+<html lang="ru-RU" class="new-grid">
+<head>
+        <meta charset="UTF-8">
+        <title>"MustPrint". Бланки строгой отчетности. Широкоформатная печать.</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Полиграфия MustPrint. Изготовление бланков строгой отчетности. Широкоформатная печать. Интерьерная реклама.">
+        <meta name="keywords" content="Полиграфия MustPrint, типография MustPrint, полиграфические услуги, Бланки строгой отчетности, БСО, Широкоформатная печать, Рекламная продукция.">
+<!-- Метаданные Шрифтов -->
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i/PT+Sans:400,400i,700,700i/Playfair+Display:400,400i,700,700i" rel="stylesheet">
+<!-- Метаданные Dublin Core -->
+        <meta name="DC.Title" content="MustPrint">
+        <meta name="DC.Creator" content="mustprint.ru">
+        <meta name="DC.Subject" content="Полиграфические услуги">
+        <meta name="DC.Description" content="Печать бланков строгой отчетности БСО, Широкоформатная печать, Печать рекламной продукции.">
+        <meta name="DC.language" content="ru-RU">
+        <meta name="DC.Coverage" content="7012974">
+<!-- Метаданные геолокации -->
+        <meta name="geo.placename" content="ул. Алексея Дикого, 20, Москва, Россия, 111396" />
+        <meta name="geo.position" content="55.7471048;37.8134169" />
+        <meta name="geo.region" content="RU-Москва" />
+        <meta name="ICBM" content="55.7471048, 37.8134169" />
+<!-- Метаданные Open Graph -->
+        <meta property="og:title" content="Полиграфия MustPrint. Изготовление бланков строгой отчетности. Широкоформатная печать. Интерьерная реклама."/>
+        <meta property="og:description" content="Полиграфия MustPrint, типография MustPrint, полиграфические услуги, Бланки строгой отчетности, БСО, Широкоформатная печать, Рекламная продукция."/>
+        <meta property="og:type" content="article"/>
+        <meta property="og:url" content="http://mustprint.ru"/>
+        <meta property="og:site" content="http://mustprint.ru"/>
+<!-- Link rel -->
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+        <meta name="msapplication-TileColor" content="#00aba9">
+        <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/style_mustprint.css">
+        <link rel="image_src" href="images/logotype-mustprint.png">
+<!-- Конец Метаданные -->
+</head>
+<body>
+<div class="informer">
+<!-- Google Universal Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66280970-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google Universal Analytics -->
+
+<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=31808209&amp;from=informer"
+target="_blank" rel="nofollow"><img src="https://informer.yandex.ru/informer/31808209/3_1_53FF53FF_33FF33FF_0_uniques"
+style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" class="ym-advanced-informer" data-cid="31808209" data-lang="ru" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script>
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter31808209 = new Ya.Metrika({
+                    id:31808209,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/31808209" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+<!-- HotLog -->
+<span id="hotlog_counter"></span>
+<span id="hotlog_dyn"></span>
+<script>
+var hot_s = document.createElement('script');
+hot_s.type = 'text/javascript'; hot_s.async = true;
+hot_s.src = 'http://js.hotlog.ru/dcounter/2499336.js';
+hot_d = document.getElementById('hotlog_dyn');
+hot_d.appendChild(hot_s);
+</script>
+<noscript>
+<a href="http://click.hotlog.ru/?2499336" target="_blank"><img
+src="http://hit34.hotlog.ru/cgi-bin/hotlog/count?s=2499336&amp;im=205"
+alt="HotLog"></a>
+</noscript>
+<!-- /HotLog -->
+<!--LiveInternet counter-->
+<script>
+document.write("<a href='//www.liveinternet.ru/click' "+
+"target=_blank><img src='//counter.yadro.ru/hit?t27.16;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано количество просмотров и"+
+" посетителей' "+
+"border='0' width='88' height='120'><\/a>")
+</script>
+<!--/LiveInternet-->
+<!-- Rating@Mail.ru counter -->
+<script>
+var _tmr = window._tmr || (window._tmr = []);
+_tmr.push({id: "2680837", type: "pageView", start: (new Date()).getTime()});
+(function (d, w, id) {
+  if (d.getElementById(id)) return;
+  var ts = d.createElement("script"); ts.type = "text/javascript"; ts.async = true; ts.id = id;
+  ts.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//top-fwz1.mail.ru/js/code.js";
+  var f = function () {var s = d.getElementsByTagName("script")[0]; s.parentNode.insertBefore(ts, s);};
+  if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); }
+})(document, window, "topmailru-code");
+</script>
+<noscript>
+<div>
+<img src="//top-fwz1.mail.ru/counter?id=2680837;js=na" style="border:0;" height="1" width="1" alt="Рейтинг@Mail.ru" />
+</div></noscript>
+<!-- //Rating@Mail.ru counter -->
+<!-- Rating@Mail.ru logo -->
+<a href="http://top.mail.ru/jump?from=2680837">
+<img src="//top-fwz1.mail.ru/counter?id=2680837;t=565;l=1" 
+style="border:0;" height="40" width="88" alt="Рейтинг@Mail.ru" /></a>
+<!-- //Rating@Mail.ru logo -->
+<!--Openstat-->
+<span id="openstat2379558"></span>
+<script>
+var openstat = { counter: 2379558, image: 5083, color: "258559", next: openstat, track_links: "ext" };
+(function(d, t, p) {
+var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";
+var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+})(document, "script", document.location.protocol);
+</script>
+<!--/Openstat-->
+<!--UPTOLIKE-->
+<script src="https://w.uptolike.com/widgets/v1/zp.js?pid=1639483"></script>
+<script>
+(function(w,doc) {
+if (!w.__utlWdgt ) {
+w.__utlWdgt = true;
+var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+s.src = ('https:' == w.location.protocol ? 'https' : 'http') + '://w.uptolike.com/widgets/v1/uptolike.js';
+var h=d[g]('body')[0];
+h.appendChild(s);
+}})(window,document);
+</script>
+<div data-background-alpha="0.0" data-buttons-color="#FFFFFF" data-counter-background-color="#ffffff" data-share-counter-size="12" data-top-button="true" data-share-counter-type="disable" data-share-style="1" data-mode="share" data-like-text-enable="false" data-hover-effect="scale" data-mobile-view="true" data-icon-color="#ffffff" data-orientation="fixed-left" data-text-color="#000000" data-share-shape="round-rectangle" data-sn-ids="fb.vk.tw.gp." data-share-size="30" data-background-color="#ffffff" data-preview-mobile="false" data-mobile-sn-ids="fb.vk.tw.wh.ok.vb." data-pid="1639527" data-counter-background-alpha="1.0" data-following-enable="false" data-exclude-show-more="false" data-selection-enable="true" class="uptolike-buttons" >
+<!--/UPTOLIKE-->
+</div>
+</div>
+<!-- Начало страницы -->
+<header>
+	<div class="container">
+<!-- Шапка сайта -->
+<!-- Логотип -->
+<!-- Адрес -->
+    <div class="col-lg-4 non"><a href="index.html"><img src="images/logotype-mustprint.png" alt="Логотип &quot;MustPrint&quot;" width="140"></a>
+       <address class="header1 address1"><a href="/mustprin-na-karte">г. Москва, м. &quot;Новогиреево&quot;,<br> ул. Алексея Дикого, д. 20.<br>7 минут пешком от метро.</a>
+       </address>
+    </div>
+  <!-- БСО-Широкоформат -->
+    <div class="header1 col-lg-12">
+      <h1 class="zag">Полиграфия&nbsp;&nbsp;&ldquo;MustPrint&rdquo;</h1>
+<!-- Заголовок БСО -->
+      <a href="/blanki-strogoy-otchetnosti-bso"><h2 class="zag1">Бланки строгой отчетности</h2></a>
+      <address class="address2"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;&nbsp;<span class="invers"><a href="mailto:mprodunov@gmail.com">mprodunov@gmail.com</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;<span class="invers">&nbsp;+7 916 308-69-93</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;<span class="invers">&nbsp;+7 916 421-87-33</span></address>
+<hr>
+<!-- Заголовок Широкоформат -->
+    <a href="/reklamnaya-produktciya"><h2 class="zag2">Широкоформатная печать - Рекламная продукция</h2></a>
+    <address class="address3"><span class="glyphicon glyphicon-envelope"></span>&nbsp;&nbsp;&nbsp;<span class="invers"><a href="mailto:produnov.s@gmail.com">produnov.s@gmail.com</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-earphone"></span>&nbsp;&nbsp;<span class="invers">&nbsp;+7 926 179-37-59</span></address>
+</div>
+<!-- конец БСО-Широкоформат -->
+<!-- конец Адрес -->
+<!-- Горизонтальное меню сайта -->
+<div class="horizontal col-lg-16 header1">
+    <ul class="nav nav-pills nav-justified blocmenu">
+	   <li class="active"><a href="index.html">Главная<br>&ldquo;MustPrint&rdquo;</a></li>
+       <li><a href="/blanki-strogoy-otchetnosti-bso">Бланки строгой отчетности</a></li>
+       <li><a href="/reklamnaya-produktciya">Широкоформатная печать<br>Рекламная продукция</a></li>
+       <li><a href="/mustprin-na-karte">Контакты<br>Проезд</a></li>
+    </ul>
+</div>
+	<!-- конец Горизонтальное меню сайта -->
+</div>		
+<!-- конец Блока -->
+<!-- конец Контейнера -->
+</header>
+<div class="container">
+        <!-- Vertical menu -->
+        <div class="aside col-lg-4">
+		<hr>
+        <h2 class="zag3">Бланки строгой отчетности</h2>
+            <ul class="nav nav-pils menu_left">
+              <li><a href="/blanki-strogoy-otchetnosti-bso">Бланки строгой отчетности</a></li>
+		      <li><a href="/obraztcy-blankov-strogoy-otchetnosti-bso">Образцы БСО</a></li>
+	          <li><a href="/stoimost">Стоимость изготовления тиража БСО</a></li>
+              <li><a href="/sposob-oplaty-BSO">Способы оплаты заказа</a></li>
+ 	          <li><a href="/on-line-zakaz-bso">On-Line заказ БСО</a></li>
+            </ul>
+            <hr>
+			<h2 class="zag3">Широкоформатная печать<br>Рекламная продукция</h2>
+            <ul class="nav nav-pils menu_left">
+              <li><a href="/reklamnaya-produktciya">Широкоформатная печать. Цены</a></li>
+ 	          <li><a href="/obraztcy-produktcii">Образцы продукции</a></li>
+              <li><a href="/shirokoformatzakaz">On-line заказ рекламной продукции</a></li>
+              <li><a href="/ReklamaOplata">Способы оплаты</a></li>
+            </ul>
+            <hr>
+<script>(function(w,doc) {
+if (!w.__utlWdgt ) {
+w.__utlWdgt = true;
+var d = doc, s = d.createElement('script'), g = 'getElementsByTagName';
+s.type = 'text/javascript'; s.charset='UTF-8'; s.async = true;
+s.src = ('https:' == w.location.protocol ? 'https' : 'http') + '://w.uptolike.com/widgets/v1/uptolike.js';
+var h=d[g]('body')[0];
+h.appendChild(s);
+}})(window,document);
+</script>
+<div data-text-color="000000" data-dislike-layout="tic" data-background-color="#ffffff" data-pid="1639495" data-like-layout="tic" data-icon-size="16" data-text-size="12" data-icon-style="1" data-count-clicks="true" data-icon-color="c1c1c1" class="uptolike-rating">
+</div>            
+         </div>
+		  <article>
+          <div class="col-lg-12"> 
+    <div> 
+		<h2>Изготовление БСО.</h2>
+          <p>Полиграфия "MustPrint" предлагает Вам изготовление тиражей бланков строгой отчетности для любых видов услуг по привлекательным ценам. Изготовление тиражей БСО может быть выполнено как по предоставленным Вами образцам и макетам, с фото и наброска от руки, так и по готовым макетам из наших <a href="/obraztcy-blankov-strogoy-otchetnosti-bso">образцов БСО</a>. В нашей галерее представлена лишь небольшая часть типовых образцов, мы не стали перегружать наш сайт, да и отрывать у Вас время на рассматривание великого многообразия, по сути, одних и тех бланков с вариациями. Поскольку, в настоящее время, почти не осталось строго утвержденных форм бланков и каждый предприниматель может самостоятельно разработать свою форму бланка с учетом требований Постановления Правительства РФ от 06.05.2008 N 359 (ред. от 15.04.2014) "О порядке осуществления наличных денежных расчетов и (или) расчетов с использованием платежных карт без применения контрольно-кассовой техники", гораздо проще обсудить, что конкретно Вы хотите, а мы предоставим то, что Вас устроит. Наши дизайнеры сделают для Вас уникальный макет бланка, причем абсолютно бесплатно.</p>
+      <h2>Тиражирование на ризографе.</h2>
+         <p>Предлагаем тиражирование листовок, бланков, объявлений, прайс-листов, ресторанных счетов, анкет и другой печатной продкуции тиражами от 100 шт.</p>
+      <h2>Широкоформатная печать рекламной продукции.</h2>
+          <p>В современном мире невозможно себе представить успешное предприятие без хорошей рекламы. Наша полиграфия предлагает Вам свои услуги для решения этой непростой, но очень важной задачи. Ведь реклама - двигатель торговли и залог успешного продвижения Вашего бизнеса.</p>
+        <ul>
+          <li>Максимальная ширина материала при печати 360/540 точек - 3.2 метра.</li>
+          <li>Максимальная ширина материала при печати 720/1440 точек - 1.6 метра.</li>
+		</ul>
+          <p>Так же возможно изготовление большей ширины, путем сваривания полос, усиление края, установка люверсов, накатка светоотражающей и световозвращающей пленки на баннер, услуги плоттерной резки, изготовление конструкций любой сложности, ролл-апов, пресс-волов, штендеров, светодиодных вывесок и светящихся букв.</p>
+          <p>Наши дизайнеры всегда готовы оказать Вам любую помощь в подборе материалов, разработке макетов, логотипов и решении других вопросов, связанных с изготовлением полиграфической продукции.</p>
+</div>
+</div>
+</article>
+<div class="col-lg-16">
+  <footer>
+     <hr>
+        <p>Цены на сайте соответствуют действительности. Никаких дополнительных надбавок. Вы получите желаемое именно за ту цену, которую увидите<a href="/stoimost#stoimost_tiraga">&nbsp;&nbsp;ЗДЕСЬ.</a></p>
+        <p>&copy;&nbsp;Оформление сайта.&nbsp;&ldquo;MustPrint&rdquo;,&nbsp;2018 г.</p>
+     <hr>
+  </footer>
+</div>
+</div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="js/jquery-1.12.4.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+</body>
+</html>
